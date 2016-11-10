@@ -9,6 +9,7 @@ markdown: kramdown
 #disqus: dbyll
 #google_analytics: dbyll
 title: Korean CR Project
+tagline: "by B.F.M."
 
 defaults:
   -
@@ -20,7 +21,7 @@ defaults:
 description: Korean CR Project Homepage by B.F.M.
 author:
   name: B.F.M.
-#  email: ubb@example.com
+#  email: bfm@example.com
   github: youbeebee
 #  twitter: asd123
 #  pinterest: asd123
