@@ -2,8 +2,8 @@
 layout: post
 title:  "CR 업데이트(2016년 9월)"
 categories: [CR]
-tags: [update]
-description: CR Update
+tags: [cr, update]
+description: CR Update 2016.09
 ---
 
 * 2016년 9월자 CR : [다운로드](https://github.com/youbeebee/kormtgcr/raw/f1ed267f0614f66b76c5a1974bf049be5d30e208/MagicCompRules_KR.docx)
