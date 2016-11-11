@@ -6,7 +6,7 @@ permalink: /:title
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
-#disqus: dbyll
+disqus: b-f-m
 #google_analytics: dbyll
 title: Korean CR Project
 

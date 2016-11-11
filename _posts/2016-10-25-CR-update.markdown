@@ -3,6 +3,7 @@ layout: post
 title:  "CR 업데이트(2016년 9월)"
 categories: [CR]
 tags: [cr, update]
+comments: ture
 description: CR Update 2016.09
 ---
 

@@ -4,6 +4,7 @@ title:  "Example content"
 tagline: by B.F.M.
 categories: [test]
 tags: [sample, test]
+comments: true
 description: Sample placeholder post.
 ---
 
