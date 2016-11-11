@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Example content"
+tagline: by B.F.M.
 categories: [test]
 tags: [sample, test]
 description: Sample placeholder post.

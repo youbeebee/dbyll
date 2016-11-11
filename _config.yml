@@ -9,7 +9,6 @@ markdown: kramdown
 #disqus: dbyll
 #google_analytics: dbyll
 title: Korean CR Project
-tagline: "by B.F.M."
 
 defaults:
   -
