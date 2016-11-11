@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Example content3"
+title:  "Example content"
 categories: [test]
-tags: [sample2]
+tags: [sample, test]
 description: Sample placeholder post.
 ---
 
 ***
-Contents  
+**Contents**  
 
 * TOC
 {:toc}
@@ -16,6 +16,8 @@ Contents
 
 |table|table|table|
 |1|2|3|
+
+[Anchor#1](#a1)
 
 Morbi ultrices libero imperdiet [lectus](#lorem) dignissim, sit amet bibendum nisl consectetur. Morbi erat purus, pretium at ligula tincidunt, faucibus commodo sem. Etiam vel porttitor est, vitae maximus ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien turpis, cursus non porta ac[^1].
 
@@ -27,10 +29,13 @@ Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravi
 ### Ipsum
 Nunc nec aliquam tellus. Etiam faucibus magna nibh, ut fermentum velit consectetur id. Nullam vehicula iaculis tortor, in cursus enim auctor vitae. Duis semper pulvinar justo, at vestibulum dolor. Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
 
-## Dugem
+## Dugem[^a]
 Nullam vehicula iaculis tortor, in cursus enim auctor vitae. Duis semper pulvinar justo, at vestibulum dolor. Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
 
-> Nam vitae commodo ex. Nunc vel tellus leo.
+> Nam vitae commodo ex. Nunc vel tellus leo.[^2]
+
+[^a]: asdfasdf
+[^2]: footnote3
 
 ### Golem
 Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravida enim vel lectus aliquet aliquet.
@@ -39,7 +44,7 @@ Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravi
 * Donec id elit non mi porta gravida at eget metus.
 * Nulla vitae elit libero, a pharetra augue.
 
-Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
+<a name="a1"></a>Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
 
 1. Vestibulum id ligula porta felis euismod semper.
 2. Cum sociis natoque penatibus.
@@ -56,3 +61,5 @@ function trigger_alert(){
 
 trigger_alert();
 ```
+
+***
