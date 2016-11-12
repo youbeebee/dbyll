@@ -8,13 +8,7 @@ comments: true
 description: Sample placeholder post.
 ---
 
-***
-**Contents**  
-
-* TOC
-{:toc}
-
-***
+{% include toc.md %}
 
 |table|table|table|
 |1|2|3|
@@ -32,6 +26,8 @@ Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravi
 Nunc nec aliquam tellus. Etiam faucibus magna nibh, ut fermentum velit consectetur id. Nullam vehicula iaculis tortor, in cursus enim auctor vitae. Duis semper pulvinar justo, at vestibulum dolor. Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
 
 ## Dugem[^a]
+
+## Nullam vehicula 
 Nullam vehicula iaculis tortor, in cursus enim auctor vitae. Duis semper pulvinar justo, at vestibulum dolor. Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
 
 > Nam vitae commodo ex. Nunc vel tellus leo.[^2]
@@ -40,6 +36,8 @@ Nullam vehicula iaculis tortor, in cursus enim auctor vitae. Duis semper pulvina
 [^2]: footnote3
 
 ### Golem
+
+### Quisque sodales
 Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravida enim vel lectus aliquet aliquet.
 
 * Praesent commodo cursus magna.
