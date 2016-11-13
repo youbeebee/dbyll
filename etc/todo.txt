@@ -1,0 +1,5 @@
+sed & shell 스크립트 사용해서 txt에 md & html 문법 자동 적용 방법 연구
+(http://www.joinc.co.kr/w/Site/Tip/StringReplace)
+주석 양식 표준화 & 주석 자동화시킬 방법 연구
+파일 쪼개기&이름 짓기&헤더 달기 연구
+URL 패턴 인식 방법 연구
