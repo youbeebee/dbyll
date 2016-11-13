@@ -197,8 +197,14 @@ ul.dropdown-menu>li>a>i.fa {
     padding-left: 1em;
 }
 
+.clause {
+    text-indent: 0.5em;
+    padding-left: 1em;
+}
+
 .example {
     text-indent: 0.5em;
     font-style: italic;
-    padding-left: 1.6em;
+    color: #777;
+    padding-left: 2em;
 }
