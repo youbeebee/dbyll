@@ -190,3 +190,9 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
+
+/* B.F.M. Customized tags */
+#markdown-toc {
+    list-style: none;
+    padding-left: 1em;
+}
