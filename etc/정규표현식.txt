@@ -16,14 +16,14 @@ to :	**\1**
 from :	(^\*\*[0-9]{3}\.[0-9]+[a-z]+\*\*)
 to :	&nbsp;&#9;&nbsp;&#9;\1
 
-* Example 서식 적용
-(^Example:) (.+$)
-\n&nbsp;&#9;&nbsp;&#9;**\1** _\2_
+* Example 서식 적용(css)
+from :	(^Example:) (.+$)
+to :	<p class="example" markdown="1"> **\1** \2</p>
+
+예외 : 607.5.
 
 
-<p class="example">**\1** \2</p>
-
-* Homepage
+* Homepage Link
 .com : 본문 내 8개
 .net : 본문 내 1개
 
@@ -38,4 +38,5 @@ to :	&nbsp;&#9;&nbsp;&#9;\1
 &nbsp; : 스페이스
 &#9; : 공백
 <br> or \n : 엔터
+
 
