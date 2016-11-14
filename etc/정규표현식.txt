@@ -1,4 +1,4 @@
-대문단paragraph : 시작[숫자3개].
+﻿대문단paragraph : 시작[숫자3개].
 중문단subparagraph : 시작[숫자3개].[숫자1~3].
 소문단clause : 시작[숫자3개].[숫자1~3][알파뱃1]
 예시 example
@@ -17,9 +17,7 @@ to :	**\1**
 from :	(^\*\*[0-9]{3}\.[0-9]+[a-z]+\*\* .+$)
 to :	<p class="clause" markdown="1">\1</p>
 
-예외 : 205.3i,j 
-509.1b
-810.7b
+예외 : 205.3i-j, 509.1b, 810.7b
 
 * Example 서식 적용(css)
 from :	(^Example:) (.+$)

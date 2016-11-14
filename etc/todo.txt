@@ -1,4 +1,4 @@
-sed & shell 스크립트 사용해서 txt에 md & html 문법 자동 적용 방법 연구
+﻿sed & shell 스크립트 사용해서 txt에 md & html 문법 자동 적용 방법 연구
 (http://www.joinc.co.kr/w/Site/Tip/StringReplace)
  - sed완료, .sh 파일로 제작
 
@@ -8,9 +8,24 @@ sed & shell 스크립트 사용해서 txt에 md & html 문법 자동 적용 방�
 
 URL 패턴 인식 방법 연구
 
+심볼 변환
+탭{T}
+언탭{Q}
+마나 5색{WBURG} {C}
+하이브리드 {2/WUBRG}, {W/U}, {W/B}, {U/B}, {U/R}, {B/R}, {B/G}, {R/G}, {R/W}, {G/W}, {G/U}
+피렉시아{P}, {WUBRG/P}
+{X}
+{숫자} 0~10
+플레인즈워커 {PW}
+카오스 {CHAOS}
+에너지 {E}
+스노우 {S}
+
+
 /////////
 
 원문 비교 서비스(저지위키? 셀베이션?)
 see rule xxx 인식
 마우스 커서 올리면 토글창
-심볼 변환
+
+#echo "Symbol change complete."
