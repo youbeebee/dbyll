@@ -5,6 +5,7 @@ tagline: by B.F.M.
 categories: [test]
 tags: 
 comments: true
+permalink: /example/
 description: Sample placeholder post.
 ---
 
@@ -15,17 +16,23 @@ description: Sample placeholder post.
 
 [Anchor#1](#a1)
 
+[Anchor#2](#a2)
+
 Morbi ultrices libero imperdiet [lectus](#lorem) dignissim, sit amet bibendum nisl consectetur. Morbi erat purus, pretium at ligula tincidunt, faucibus commodo sem. Etiam vel porttitor est, vitae maximus ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien turpis, cursus non porta ac[^1].
 
 [^1]: And here is the definition.
 
 ## Lorem
-Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravida enim vel lectus aliquet aliquet.
+Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravida enim vel lectus aliquet aliquet.[^].
+
+[^1]: And here is the definition2.
 
 ### Ipsum
 Nunc nec aliquam tellus. Etiam faucibus magna nibh, ut fermentum velit consectetur id. Nullam vehicula iaculis tortor, in cursus enim auctor vitae. Duis semper pulvinar justo, at vestibulum dolor. Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
 
 ## Dugem[^a]
+
+<a name="a2" markdown="1"></a>
 
 ## Nullam vehicula 
 Nullam vehicula iaculis tortor, in cursus enim auctor vitae. Duis semper pulvinar justo, at vestibulum dolor. Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
