@@ -15,6 +15,8 @@ description: Sample placeholder post.
 
 [Anchor#1](#a1)
 
+[Anchor900.102a](#900.102a)
+
 Morbi ultrices libero imperdiet [lectus](#lorem) dignissim, sit amet bibendum nisl consectetur. Morbi erat purus, pretium at ligula tincidunt, faucibus commodo sem. Etiam vel porttitor est, vitae maximus ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien turpis, cursus non porta ac[^1].
 
 [^1]: And here is the definition.
@@ -52,7 +54,7 @@ Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravi
 
 ![Large example image](http://placehold.it/800x400 "Large example image")
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<a name="900.102a"/>Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ``` javascript
 function trigger_alert(){
