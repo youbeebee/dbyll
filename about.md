@@ -21,7 +21,7 @@ permalink: /about/
 ## 바깥고리
 
  * [프로젝트 Github](https://github.com/youbeebee/kormtgcr){:target="_blank"} : CR 번역을 관리하는 Github 저장소입니다.
-* [Daum Cafe magin](http://cafe.daum.net/magin){:target="_blank"} :한국의매직 커뮤니티입니다. 
- [Judge Apps](http://apps.magicjudges.org){:target="_blank"} 
- [yawgatog](http://www.yawgatog.com/resources/rules-changes){:target="_blank"}
+ * [Daum Cafe magin](http://cafe.daum.net/magin){:target="_blank"} :한국의매직 커뮤니티입니다. 
+ * [Judge Apps](http://apps.magicjudges.org){:target="_blank"} 
+ * [yawgatog](http://www.yawgatog.com/resources/rules-changes){:target="_blank"}
 

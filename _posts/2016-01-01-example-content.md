@@ -54,7 +54,7 @@ Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravi
 
 ![Large example image](http://placehold.it/800x400 "Large example image")
 
-<a name="900.102a"/>Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<a name="900.102a"></a>Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ``` javascript
 function trigger_alert(){
