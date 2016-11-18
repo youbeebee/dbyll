@@ -10,7 +10,7 @@ permalink: /about/
 ## Notice
 
 위자드 오브 더 코스트의 허락 및 인증을 받지 않은 비공식 번역입니다. 한글판이 나오지 않은 용어의 경우 DotP의 번역을 참고했으며, 정식판에서는 변경될 수 있습니다.
-규칙에 대한 공신력 있는판정을 위해서는 [wizards.com](http://magic.wizards.com/en/game-info/gameplay/rules-and-formats/rules)의 영문 CR을 이용하시고 이 문서는 참고용으로만 사용하는 것을 권장합니다.
+규칙에 대한 공신력 있는판정을 위해서는 [wizards.com](http://magic.wizards.com/en/game-info/gameplay/rules-and-formats/rules){:target="_blank"}의 영문 CR을 이용하시고 이 문서는 참고용으로만 사용하는 것을 권장합니다.
 
 본 문서는 자유롭게 배포 및 사용 가능합니다.
 
