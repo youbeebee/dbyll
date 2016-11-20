@@ -20,7 +20,7 @@ description: Sample placeholder post.
 
 [Anchor#3](#a3)
 
-Morbi ultrices libero imperdiet [lectus](#lorem) dignissim, sit amet bibendum nisl consectetur. Morbi erat purus, pretium at ligula tincidunt, faucibus commodo sem. Etiam vel porttitor est, vitae maximus ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien turpis, cursus non porta ac[^1].
+~~Morbi ultrices libero~~ imperdiet [lectus](#lorem) dignissim, ~~sit amet bibendum nisl~~ consectetur. Morbi erat purus, pretium at ligula tincidunt, faucibus commodo sem. Etiam vel porttitor est, vitae maximus ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien turpis, cursus non porta ac[^1].
 
 [^1]: And here is the definition.
 
