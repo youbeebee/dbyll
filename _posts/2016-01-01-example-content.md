@@ -18,11 +18,13 @@ description: Sample placeholder post.
 
 [Anchor#2](#a2)
 
+[Anchor#3](#a3)
+
 Morbi ultrices libero imperdiet [lectus](#lorem) dignissim, sit amet bibendum nisl consectetur. Morbi erat purus, pretium at ligula tincidunt, faucibus commodo sem. Etiam vel porttitor est, vitae maximus ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien turpis, cursus non porta ac[^1].
 
 [^1]: And here is the definition.
 
-## Lorem
+## <a name="a3"></a>Lorem
 Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravida enim vel lectus aliquet aliquet.[^].
 
 [^1]: And here is the definition2.
