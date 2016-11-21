@@ -25,7 +25,7 @@ description: Sample placeholder post.
 
 [^1]: And here is the definition.
 
-## <a name="a3"></a>Lorem
+## Lorem
 Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravida enim vel lectus aliquet aliquet.[^].
 
 [^1]: And here is the definition2.
@@ -63,6 +63,8 @@ Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravi
 ![Large example image](http://placehold.it/800x400 "Large example image")
 
 <a name="900.102a"></a>Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+{% youtube http://youtu.be/WQYN2P3E06s %}
 
 ``` javascript
 function trigger_alert(){
