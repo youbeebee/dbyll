@@ -5,15 +5,17 @@
       '<del>$1</del>'
     );
   }
-  
+  strikethrough();
+})();
+
+(function() {
+ 
    function paragraph(){
     document.body.innerHTML = document.body.innerHTML.replace(
       /((^[0-9]{3}). )/gim,
       '<br><a name="$2"><\/a>\n\n### $1'
     );
   }
-  
-  strikethrough();
   paragraph();
 })();
 
