@@ -5,6 +5,7 @@ tagline: by B.F.M.
 categories: [test]
 tags: 
 comments: true
+rule_syntax: true
 permalink: /example/
 description: Sample placeholder post.
 ---
@@ -62,10 +63,6 @@ Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravi
 ![Large example image](http://placehold.it/800x400 "Large example image")
 
 <a name="900.102a"></a>Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-{% youtube https://www.youtube.com/watch?v=WQYN2P3E06s %}
-
-{% youtube http://youtu.be/WQYN2P3E06s %}
 
 ``` javascript
 function trigger_alert(){

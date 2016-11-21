@@ -6,3 +6,7 @@ layout: default
 {% if site.disqus and page.comments %}
     {% include disqus.html %}
 {% endif %}
+
+{% if page.rule_syntax %}
+	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/js/syntax.js"></script>
+{% endif %}
