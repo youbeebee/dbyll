@@ -65,6 +65,8 @@ Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravi
 
 {% youtube https://www.youtube.com/watch?v=WQYN2P3E06s %}
 
+{% youtube http://youtu.be/WQYN2P3E06s %}
+
 ``` javascript
 function trigger_alert(){
   alert("Lorem Ipsum dolor sit amet");
