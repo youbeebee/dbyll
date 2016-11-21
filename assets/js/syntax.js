@@ -16,3 +16,5 @@
   strikethrough();
   paragraph();
 })();
+
+<!-- http://www.levihackwith.com/javascript-performance-tip-precompile-your-regular-expressions/ -->
