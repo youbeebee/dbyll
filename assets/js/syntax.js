@@ -1,4 +1,4 @@
-(function() {
+/*(function() {
   function strikethrough(){
     document.body.innerHTML = document.body.innerHTML.replace(
       /\~\~(.+?)\~\~/gim,
@@ -6,7 +6,7 @@
     );
   }
   strikethrough();
-})();
+})();*/
 
 (function() {
  
