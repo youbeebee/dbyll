@@ -208,3 +208,8 @@ ul.dropdown-menu>li>a>i.fa {
     color: #777;
     padding-left: 2em;
 }
+
+.legal {
+    font-style: italic;
+    color: #777;
+}
