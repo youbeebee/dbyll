@@ -210,7 +210,21 @@ ul.dropdown-menu>li>a>i.fa {
 }
 
 .legal {
+    text-indent: 0.5em;
     font-style: italic;
     color: #777;
     font-size: 85%;
+}
+
+.toc {
+    border: 2px solid;
+    padding: 15px;
+    margin-bottom: 30px;
+    max-width: 300px;
+    font-size: 110%;
+    background: #EEE;
+    
+}
+.toc>p {
+    font-size: 120%;
 }
