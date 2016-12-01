@@ -74,6 +74,4 @@ trigger_alert();
 
 {% gist youbeebee/0da8c6a3a27e25e17c5da6fedf9c528c %}
 
-{% youtube WQYN2P3E06s %}
-
 ***
