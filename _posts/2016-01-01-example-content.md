@@ -10,6 +10,7 @@ permalink: /example/
 description: Sample placeholder post.
 ---
 
+
 {% include toc.md %}
 
 |table|table|table|
