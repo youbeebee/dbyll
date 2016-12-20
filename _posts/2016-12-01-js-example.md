@@ -6,37 +6,46 @@ tags:
 description: js test
 ---
 
-<script type="text/javascript">
-$(function(){
-  $('.yellow_circle').mouseover(function(){
-    $('.yellow_circle_word').text('마우스 포인터가 노란색원 안에 있습니다. ');
-  });
-  $('.yellow_circle').mouseout(function(){
-    $('.yellow_circle_word').text('마우스 포인터가 노란색원을 떠났습니다. ');
-  });
-});
-</script>
-
-<div class="yellow_circle" style="width:40px;height:40px;border-radius:20px;background:yellow"></div>
-<p class="yellow_circle_word">노란색 원에 마우스 포인터를 올리고 내려 보세요.</p>
-
 <style type="text/css">
-	#help_div{display:none;}
+	.help_div {
+		position: relative;
+		z-index:1;
+	}
+	#help_img{
+		display:none;
+		position: absolute;
+		width:50px;
+		height:50px; 
+		z-index:2;
+	}
 </style>
+<br>
+<br>
+<br>
+<br>
 
-<div>
-    <img src="/etc/ca8009b9301970c6e6b1a97c8cb6180d.png" class="help_btn">
-    <div id="help_div">설명</div>
-</div>
-
+<p>asfasdfasdfasdfasdfa</p>
+<p>asdf asdf <span class="help_div">카드이름</span><img src="/etc/ca8009b9301970c6e6b1a97c8cb6180d.png" id="help_img">asdfqadsfasdfasd fasdas dfasdfasdfa asdfasdfasdfas adfasdf asdf asdf asdf as asdf asdfasdfasdf sd fasdfasdfa sdfasdfasdfasdfasdfasdf asdfa sfasfasdf asdf <span class="help_div">카드이름</span><img src="/etc/ca8009b9301970c6e6b1a97c8cb6180d.png" id="help_img">asdfasdff</p>
+<p>asdfasdfasdfas dfasdfasdfasdfasdfasdfa sdfasdfasdf asdfasdf</p>
+<p>가나다라마바사아자차카타파하</p>
 
 <script type="text/javascript">
 $(function(){
-	$(".help_btn").mouseenter(function() {
-	    $("#help_div").css("display", "block");
+	$(".help_div").mouseenter(function() {
+ 	    $("#help_img").css("left", $(".help_div").position().left+20);
+	    $("#help_img").css("top", $(".help_div").position().top+20);
+	    $("#help_img").css("display", "block");
+	    //alert("asdf "+$(".help_div").position().left+", "+$(".help_div").position().top);
 	});
-	$(".help_btn").mouseleave(function() {
-	    $("#help_div").css("display", "none");
+	$(".help_div").mouseleave(function() {
+	    $("#help_img").css("display", "none");
 	});
 });
 </script>
+
+$$y = x + 1$$
+
+
+\\( \sum_{t=1}^{T}\beta_{t} \\)
+
+***
