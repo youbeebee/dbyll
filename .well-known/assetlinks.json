@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.woongsunyou.myapplication",
+    "sha256_cert_fingerprints":
+    ["84:EA:2D:F6:8D:72:48:43:25:39:15:09:74:EA:4C:94:39:CA:DE:6C:D0:FB:64:0A:83:6F:73:B5:8E:E6:68:3A"]
+  }
+}]
