@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /about/
 ---
-## Magic:the Gathering Korean Comprehensive Rules Project.
+## Magic:the Gathering 한국어 룰북
 
 매직 더 개더링 종합규칙서를 번역하는 블로그입니다.
 
