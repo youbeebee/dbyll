@@ -236,3 +236,8 @@ ul.dropdown-menu>li>a>i.fa {
 .to-blog-link:hover {
     color: #0B6138;
 }
+
+#sidebar-menu li.nav-item > a{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+}
