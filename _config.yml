@@ -6,7 +6,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: b-f-m
 google_analytics: UA-88602504-1
-title: Magic:the Gathering<br>한국어 룰북
+title: MTG 한국어 룰북
 
 defaults:
   -
