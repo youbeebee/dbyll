@@ -1,11 +1,12 @@
 ---
 layout: about
 title: About
+tagline: by B.F.M.
 permalink: /about/
 ---
 ## Magic:the Gathering 한국어 룰북
 
-매직 더 개더링 종합규칙서를 번역하는 블로그입니다.
+매직 더 개더링 종합규칙서를 번역하는 사이트입니다.
 
 ## Notice
 
@@ -14,8 +15,6 @@ permalink: /about/
 본 문서는 자유롭게 인용, 발췌 및 복사 가능합니다.(단, 상업적 용도로 이용할 경우 위자드가 이놈! 할 수는 있음)
 
 [dotp]: https://namu.wiki/w/%EB%A7%A4%EC%A7%81:%20%EB%8D%94%20%EA%B0%9C%EB%8D%94%EB%A7%81%20-%20%ED%94%8C%EB%A0%88%EC%9D%B8%EC%A6%88%EC%9B%8C%EC%BB%A4%EC%9D%98%20%EA%B2%B0%ED%88%AC
-
-
 
 ## 종합규칙서란?
 
@@ -27,10 +26,6 @@ permalink: /about/
 [^2]: Tournament Rules; TR
 [^3]: Infraction Procedure Guide;IPG
 [basic]: http://magic.wizards.com/ko/game-info/gameplay/rules-and-formats/rules
-
-## 온라인 버전
-
-**[여기를](/0.Index)** 클릭하시면 이동합니다.
 
 ## 바깥고리
 

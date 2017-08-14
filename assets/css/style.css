@@ -228,3 +228,11 @@ ul.dropdown-menu>li>a>i.fa {
 .toc>p {
     font-size: 120%;
 }
+
+.to-blog-link {
+    color: green;
+}
+
+.to-blog-link:hover {
+    color: #0B6138;
+}

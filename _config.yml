@@ -1,7 +1,5 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-paginate: 5 # pagination based on number of posts
-paginate_path: "page:num"
 permalink: /:title
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
@@ -26,7 +24,6 @@ author:
   #pinterest: asd123
   #linkedin: asd123
   bio: 'B.F.M. <br>DCI 공인 MTG Lv.1 Judge'
-  #email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
 categories_path: categories.html
@@ -37,6 +34,7 @@ tags_path: tags.html
 
 BASE_PATH:
 
+BLOG_PATH: http://blog.youbeebee.net
+
 gems:
-  - jekyll-paginate
   - jekyll-gist
