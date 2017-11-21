@@ -1,6 +1,6 @@
 ---
 layout: index2
-title: Index
+title: 매직 더 개더링 한글 룰북 - 목차
 tagline: by B.F.M.
 date: 2017-08-14
 permalink: /
@@ -32,28 +32,28 @@ permalink: /
 <br>
 
 #### [1. 게임의 컨셉 Game Concepts](/100)  
-	100. 일반 General  
-	101. 매직의 황금률 The Magic Golden Rules  
-	102. 플레이어 Players  
-	103. 게임의 시작 Starting the Game  
-	104. 게임의 끝 Ending the Game  
-	105. 색 Colors  
-	106. 마나 Mana  
-	107. 숫자와 심볼 Numbers and Symbols  
-	108. 카드 Cards  
-	109. 개체 Objects  
-	110. 지속물 Permanents  
-	111. 주문Spells  
-	112. 능력 Abilities  
-	113. 휘장 Emblems  
-	114. 목표 Targets  
-	115. 특별 행동 Special Actions  
-	116. 타이밍과 우선권 Timing and Priority  
-	117. 비용 Costs  
-	118. 생명점 Life  
-	119. 피해 Damage  
-	120. 카드 뽑기 Drawing a Card  
-	121. 카운터 Counters  
+[100. 일반 General](/100#100)  
+[101. 매직의 황금률 The Magic Golden Rules](/100#101)  
+[102. 플레이어 Players](/100#102)  
+[103. 게임의 시작 Starting the Game](/100#103)  
+[104. 게임의 끝 Ending the Game](/100#104)  
+[105. 색 Colors](/100#105)  
+[106. 마나 Mana](/100#106)  
+[107. 숫자와 심볼 Numbers and Symbols](/100#107)  
+[108. 카드 Cards](/100#108)  
+[109. 개체 Objects](/100#109)  
+[110. 지속물 Permanents](/100#110)  
+[111. 주문Spells](/100#111)  
+[112. 능력 Abilities](/100#112)  
+[113. 휘장 Emblems](/100#113)  
+[114. 목표 Targets](/100#114)  
+[115. 특별 행동 Special Actions](/100#115)  
+[116. 타이밍과 우선권 Timing and Priority](/100#116)  
+[117. 비용 Costs](/100#117)  
+[118. 생명점 Life](/100#118)  
+[119. 피해 Damage](/100#119)  
+[120. 카드 뽑기 Drawing a Card](/100#120)  
+[121. 카운터 Counters](/100#121)  
   
 #### [2. 카드의 구성 Parts of a Card](/200)  
 	200. 일반 General  
