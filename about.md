@@ -27,6 +27,8 @@ permalink: /about/
 [^3]: Infraction Procedure Guide;IPG
 [basic]: http://magic.wizards.com/ko/game-info/gameplay/rules-and-formats/rules
 
+## [**목차 바로가기**](/)
+
 ## 바깥고리
 
  * [프로젝트 Github](https://github.com/youbeebee/kormtgcr){:target="_blank"} : CR 번역을 관리하는 Github 저장소입니다.
