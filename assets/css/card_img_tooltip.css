@@ -1,0 +1,7 @@
+.mtg-card {           
+    font-weight: bold;
+    color: blueviolet;
+}
+.tooltip-inner {
+    max-width: 100%;
+}
