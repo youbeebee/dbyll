@@ -1,7 +1,11 @@
-.mtg-card {           
+/* 카드 이미지 툴팁을 위한 css */
+
+/* <mtg-card> 태그에 스타일 적용 */
+mtg-card {           
     font-weight: bold;
     color: blueviolet;
 }
+/* 툴팁 너비 제한을 내부 이미지 크기만큼 늘림 */
 .tooltip-inner {
     max-width: 100%;
 }
