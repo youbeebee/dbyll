@@ -27,13 +27,13 @@ permalink: /about/
 [^3]: Infraction Procedure Guide;IPG
 [basic]: http://magic.wizards.com/ko/game-info/gameplay/rules-and-formats/rules
 
-## [**목차 바로가기**](/)
+## [**목차 바로가기(클릭)**](/)
 
 ## 바깥고리
 
  * [프로젝트 Github](https://github.com/youbeebee/kormtgcr){:target="_blank"} : CR 번역을 관리하는 Github 저장소입니다.
  * [Daum Cafe magin](http://cafe.daum.net/magin){:target="_blank"} :한국의 매직 커뮤니티입니다. 
  * [Judge Apps](http://apps.magicjudges.org){:target="_blank"} 
- * [yawgatog](http://www.yawgatog.com/resources/rules-changes){:target="_blank"} : 버전별 diff를 보여주는 사이트.
+ * [yawgatog](http://www.yawgatog.com/resources/rules-changes){:target="_blank"} : 버전별 diff를 보여주는 사이트. 익살란 이후로 업데이트 안됨
 
 ***
