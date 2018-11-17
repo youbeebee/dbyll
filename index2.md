@@ -187,7 +187,7 @@ permalink: /
 [901. 플레인체이스 Planechase](/900#901)  
 [902. 뱅가드 Vanguard](/900#902)  
 [903. 커맨더 Commander](/900#903)  
-[904. 아크에너미 Archenemy](/900#904)  
+[904. 아치에너미 Archenemy](/900#904)  
 [905. 컨스피러시 드래프트 Conspiracy Draft ](/900#905)  
 </p>
 
