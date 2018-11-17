@@ -2,7 +2,7 @@
 layout: index2
 title: 매직 더 개더링 한글 룰북 - 목차
 tagline: by B.F.M.
-date: 2018-09-08
+date: 2018-11-17
 permalink: /
 ---
 ### **매직: 더 개더링 종합 규칙서**
