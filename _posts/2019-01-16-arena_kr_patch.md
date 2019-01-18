@@ -39,10 +39,8 @@ description: 매직 더 개더링 아레나 - 유저 한글패치
  1. `<설치폴더>\Downloads\AssetBundle`에 있는 `data_loc_*.mtga` 파일을 삭제한다.
  1. 아레나를 다시 실행한다.
 
-## 다운로드
- * [v190116_pre 다운로드](https://github.com/youbeebee/MTGArena-Kor/releases/download/v190116_pre/MTGArena-KR_v190116_pre.zip)
-
-이 버전은 1월 18일에 예정된 아레나 업데이트 이후엔 작동을 안할 확률이 높습니다. 정식 버전을 기다려주세요.
+## <다운로드>
+ * [v190118 다운로드](https://github.com/youbeebee/MTGArena-kr/releases/download/v190118/MTGArena-kr_v190118.zip)
 
 ## FAQ 
  * Q: 폰트가 너무 후져요.
