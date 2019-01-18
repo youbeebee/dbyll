@@ -4,7 +4,7 @@ title:  "매직 더 개더링 아레나 - 한글패치 공개"
 categories: [arena]
 tags: [arena, korean]
 comments: true
-description: MTG Arena - Korean language patch
+description: 매직 더 개더링 아레나 - 유저 한글패치
 ---
 
 ![kr1](/assets/images/arena/kr1.png)
@@ -44,7 +44,26 @@ description: MTG Arena - Korean language patch
 
 이 버전은 1월 18일에 예정된 아레나 업데이트 이후엔 작동을 안할 확률이 높습니다. 정식 버전을 기다려주세요.
 
+ ## FAQ
+ * Q: 폰트가 너무 후져요.
+   * A: 폰트는 [UnityL10nTool](https://github.com/dmc31a42/UnityL10nTool/wiki/Home-ko-KR)이라는 솔루션을 사용해 적용하고 있습니다. 본인이 미숙해서 기본지원 폰트 외에 바꾸는 법을 모릅니다(...) UnityL10nTool의 제작자님께 이 기회를 빌어 감사드립니다.
+ 
+![btn](/assets/images/arena/btn_font.png)
+ * Q: 주황색 버튼의 그림자가 이상하게 보여요.
+   * A: 저도 이유를 모릅니다(...) 혹시 아시는 분은 알려주세요.
+   * 임시조치로 `옵션-그래픽-언어`에 들어가서 언어를 잠시 러시아어로 바꾸었다가 영어로 되돌리면 잠시 증상이 사라집니다.
+
+![popup](/assets/images/arena/popup.png)
+ * Q: 팝업으로 뜨는 키워드 설명이 번역이 안되어 있어요.
+   * 해당 문자열들은 카드 데이터 파일이 아니라 다른 파일에 바이너리 형태로 박혀있어 수정이 쉽지 않습니다. 제 귀차니즘을 탓해주세요.
+
 ## Change Log
+### 190118
+* '라브니카의 충성' 업데이트와 함께 아레나 클라이언트에 한국어 데이터가 포함되었습니다. 개이득!
+* 내장된 한국어 데이터 기반으로 한글패치 재작성
+* 첫 정식 버전 배포(v190118): 익살란 ~ 라브니카의 충성
+* 카드이름에 적용되는 폰트를 나눔고딕으로 변경. 하지만 별로 달라진거같지 않다.
+
 ### 190116
 * 임시 버전 첫 릴리즈(v190116_pre)
 
