@@ -16,12 +16,13 @@ description: 매직 더 개더링 아레나 - 유저 한글패치
 
 본 한글패치는 업데이트의 일원화를 위해 이 페이지에서만 배포됩니다. 퍼가실 때도 이 페이지를 링크해주시는 것을 권장합니다.
 
+번역실수, 미번역 및 버그 제보 받습니다.
+
 ## <주의사항>
  * 본 패치는 아레나 클라이언트를 직접 수정합니다. 패치 적용시 이에 대한 위험을 감수하는 것으로 간주합니다.
  * 아레나의 폰트가 기존의 Belaren체에서 NotoSans체로 변경됩니다.
  * **덱 Export 및 Import 기능이 제대로 동작하지 않게 됩니다.** 수동으로 덱빌딩을 하셔야 합니다.
  * 아레나가 업데이트되면 **전체가 다시 영어로 초기화**될 수 있습니다. 이런 경우 롤백 후 새로운 패치가 나올 때까지 기다려주세요.
- * 번역실수, 미번역 및 버그 제보는 본인에게 해주세요.
 
 ## <패치적용방법>
 ![패치방법](/assets/images/arena/patch1.png)
@@ -36,7 +37,7 @@ description: 매직 더 개더링 아레나 - 유저 한글패치
 ## <롤백방법>
  1. 백업해둔 원본 `resources.assets`와 `sharedassets0.assets` 파일을 설치폴더에 다시 덮어씌운다. 
  1. `TMPFontAsset` 폴더를 삭제한다.
- 1. `<설치폴더>\Downloads\AssetBundle`에 있는 `data_loc_*.mtga` 파일을 삭제한다.
+ 1. `<설치폴더>\Downloads\Data`에 있는 `data_loc_*.mtga` 파일을 삭제한다.
  1. 아레나를 다시 실행한다.
 
 ## <다운로드>
@@ -44,7 +45,7 @@ description: 매직 더 개더링 아레나 - 유저 한글패치
 
 ## FAQ 
  * Q: 폰트가 너무 후져요.
-   * A: 폰트는 [UnityL10nTool](https://github.com/dmc31a42/UnityL10nTool/wiki/Home-ko-KR)이라는 솔루션을 사용해 적용하고 있습니다. 본인이 미숙해서 기본지원 폰트 외에 바꾸는 법을 모릅니다(...) UnityL10nTool의 제작자님께 이 기회를 빌어 감사드립니다.
+   * A: 폰트는 [UnityL10nTool](https://github.com/dmc31a42/UnityL10nTool/wiki/Home-ko-KR)이라는 솔루션을 사용해 적용하고 있습니다. 본인이 미숙해서 기본지원 폰트 외에 바꾸는 법을 모릅니다(...) UnityL10nTool의 제작자님께 감사드립니다.
  
 ![btn](/assets/images/arena/btn_font2.png)
  * Q: 주황색 버튼의 그림자가 이상하게 보여요.
