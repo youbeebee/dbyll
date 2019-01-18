@@ -48,7 +48,7 @@ description: 매직 더 개더링 아레나 - 유저 한글패치
  * Q: 폰트가 너무 후져요.
    * A: 폰트는 [UnityL10nTool](https://github.com/dmc31a42/UnityL10nTool/wiki/Home-ko-KR)이라는 솔루션을 사용해 적용하고 있습니다. 본인이 미숙해서 기본지원 폰트 외에 바꾸는 법을 모릅니다(...) UnityL10nTool의 제작자님께 이 기회를 빌어 감사드립니다.
  
-![btn](/assets/images/arena/btn_font.png)
+![btn](/assets/images/arena/btn_font2.png)
  * Q: 주황색 버튼의 그림자가 이상하게 보여요.
    * A: 저도 이유를 모릅니다(...) 혹시 아시는 분은 알려주세요.
    * 임시조치로 `옵션-그래픽-언어`에 들어가서 언어를 잠시 러시아어로 바꾸었다가 영어로 되돌리면 잠시 증상이 사라집니다.
