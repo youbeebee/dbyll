@@ -7,9 +7,9 @@ comments: true
 description: 매직 더 개더링 아레나 - 유저 한글패치
 ---
 
-![kr1](/assets/images/arena/kr1.png)
-
 {% include toc.md %}
+
+![kr1](/assets/images/arena/kr1.png)
 
 # 소개
 **매직 더 개더링 아레나**의 비공식 유저 한글패치입니다.
@@ -18,7 +18,9 @@ description: 매직 더 개더링 아레나 - 유저 한글패치
 
 번역실수, 미번역 및 버그 제보 받습니다.
 
-# <주의사항>
+<br>
+
+# **주의사항**
 * 본 패치는 아레나 클라이언트를 수정합니다. 패치 적용시 이에 대한 위험을 감수하는 것으로 간주합니다.
 * **덱 Export 및 Import 기능이 동작하지 않게 됩니다.** 수동으로 덱빌딩을 하셔야 합니다.
 * 아레나 클라이언트의 폰트가 변경됩니다.
@@ -27,7 +29,9 @@ description: 매직 더 개더링 아레나 - 유저 한글패치
 
 ------------------------------------
 
-# <패치적용방법>
+<br>
+
+# 패치적용방법
 ![패치방법](/assets/images/arena/patch1.png)
 
 ※ **롤백을 위해 패치적용 전 원본 폴더 내의 `resources.assets`와 `sharedassets0.assets` 파일을 다른 곳에 백업해둘 것.**
@@ -38,19 +42,22 @@ description: 매직 더 개더링 아레나 - 유저 한글패치
 
  * 설치폴더(기본): `C:\Program Files (x86)\Wizards of the Coast\MTGA\MTGA_Data`
 
-# <롤백방법>
+# 롤백방법
  1. 백업해둔 원본 `resources.assets`와 `sharedassets0.assets` 파일을 설치폴더에 다시 덮어씌운다. 
  1. `TMPFontAsset` 폴더를 삭제한다.
  1. `<설치폴더>\Downloads\Data`에 있는 `data_loc_*.mtga` 파일을 삭제한다.
  1. 아레나를 다시 실행한다.
   
 ------------------------------------
+
 <br>
 
 # **다운로드**
  * [v190120 다운로드](https://github.com/youbeebee/MTGArena-kr/releases/download/v190120/MTGArena-kr_v190120.zip)
 
 ------------------------------------
+
+<br>
 
 # FAQ 
  * Q: 폰트가 너무 후져요.
