@@ -31,7 +31,7 @@ description: 매직 더 개더링 아레나 - 유저 한글패치
 ------------------------------------
 
 # **다운로드**
- * [v190127 다운로드](https://github.com/youbeebee/MTGArena-kr/releases/download/v190127_comp/MTGArena-kr_v190127_comp.zip)
+ * [v190128 다운로드](https://github.com/youbeebee/MTGArena-kr/releases/download/v190128/MTGArena-kr_v190128.zip)
 
 <br><br>
 
@@ -80,6 +80,11 @@ description: 매직 더 개더링 아레나 - 유저 한글패치
 ------------------------------------
 
 # Change Log
+### v190128
+* 마이너 업데이트
+![number_font](/assets/images/arena/number_font.png)
+* Font_Title 폰트를 원본 그대로 사용(생명점 등 일부 UI가 더 멋지게 보임)
+
 ### v190127_comp
 * **완전 한글화 버전 릴리즈**
 * 옵션에서 `한국어`와 `일본어` 선택 가능
