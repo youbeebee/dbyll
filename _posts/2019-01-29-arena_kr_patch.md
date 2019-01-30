@@ -31,7 +31,7 @@ description: 매직 더 개더링 아레나 - 유저 한글패치
 ------------------------------------
 
 # **다운로드**
- * [v190128 다운로드](https://github.com/youbeebee/MTGArena-kr/releases/download/v190128/MTGArena-kr_v190128.zip)
+ * v190128 다운로드: 1/30로 만료됨. 새 패치를 기다려주세요.
 
 <br><br>
 
