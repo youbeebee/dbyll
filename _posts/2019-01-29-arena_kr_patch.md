@@ -8,7 +8,7 @@ description: 매직 더 개더링 아레나 - 유저 한글패치
 ---
 
 <style>
-div.emphasis {
+span.emphasis {
   font-size: 150%;
 }
 </style>
