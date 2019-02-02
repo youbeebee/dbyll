@@ -52,7 +52,7 @@ span.emphasis {
  1. `modified` 폴더 내의 파일들을 그대로 복사해서 아레나 설치폴더 내의 `MTGA_Data`에 복사한다. (덮어쓸까요?라는 질문에 yes)
  1. 아레나를 실행한다.  
  ![옵션](/assets/images/arena/ko_option.png)
- 1. `Option - Graphics - Locale`에서 `Korean` 선택
+ 1. ~~`Option - Graphics - Locale`에서 `Korean` 선택~~
 
  * 설치폴더(기본): `C:\Program Files (x86)\Wizards of the Coast\MTGA\MTGA_Data`
 
@@ -92,13 +92,20 @@ span.emphasis {
 ------------------------------------
 
 # **다운로드**
- * <del>v190130 다운로드</del> : 2/2 아레나 업데이트로 막힘. 새 버전을 기다려주세요.
+ * [v190202_pre 다운로드](https://github.com/youbeebee/MTGArena-kr/releases/download/v190202_pre/MTGArena-kr_v190202_pre.zip)
+
+ **Sorry, No Japanese support yet.**
 
 <br><br><br>
 
 ------------------------------------
 
 # Change Log
+### v190202_pre
+* 2/1 아레나 업데이트 대응
+* 오류로 인해 예전 방식으로 패치(언어 설정 X, 일본어 지원 X)
+* 버튼 그림자 버그, 볼드체 이텔릭체 버그 다시 생김
+
 ### v190130
 * 1/30 아레나 업데이트 대응
 
