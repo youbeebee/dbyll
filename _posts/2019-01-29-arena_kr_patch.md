@@ -92,7 +92,7 @@ span.emphasis {
 ------------------------------------
 
 # **다운로드**
- * [v190130 다운로드](https://github.com/youbeebee/MTGArena-kr/releases/download/v190130/MTGArena-kr_v190130.zip)
+ * <del>v190130 다운로드</del> : 2/2 아레나 업데이트로 막힘. 새 버전을 기다려주세요.
 
 <br><br><br>
 
