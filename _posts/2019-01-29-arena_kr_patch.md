@@ -91,7 +91,8 @@ span.emphasis {
  
  <br>
  
- * [v190202_jp Download](https://github.com/youbeebee/MTGArena-kr/releases/download/v190202_pre2/MTGArena-kr_v190202_jp.zip): For Japanese. "`Option` - `Graphics` - `Locale` - Choose `Japanese`"
+ * [v190202_jp Download](https://github.com/youbeebee/MTGArena-kr/releases/download/v190202_pre2/MTGArena-kr_v190202_jp.zip): For Japanese.  
+ `Option` - `Graphics` - `Locale` - Choose `Japanese`.
 
 <br><br><br>
 
