@@ -88,8 +88,10 @@ span.emphasis {
 
 # **다운로드**
  * [v190202_pre2 다운로드](https://github.com/youbeebee/MTGArena-kr/releases/download/v190202_pre2/MTGArena-kr_v190202_pre2.zip)
-
- **Sorry, This version doesn't support Japanese.**
+ 
+ <br>
+ 
+ * [v190202_jp Download](https://github.com/youbeebee/MTGArena-kr/releases/download/v190202_pre2/MTGArena-kr_v190202_jp.zip): For Japanese. "`Option` - `Graphics` - `Locale` - Choose `Japanese`"
 
 <br><br><br>
 
