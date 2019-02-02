@@ -35,9 +35,7 @@ span.emphasis {
 <br>
 * 아레나 클라이언트의 일부 폰트가 변경됩니다.
 <br>
-* <span class="emphasis"  markdown="1">아레나가 업데이트되면 **영어로 초기화되며 이전까지의 한패는 만료**</span>됩니다. 새로운 패치가 나올 때까지 기다려주세요.
-<br>
-* <span class="emphasis"  markdown="1">최초 **결제시 영어로** 바꾸고 진행하셔야 합니다.</span> 아래 FAQ 참고.
+* <span class="emphasis"  markdown="1">아레나가 업데이트되면 **영어로 초기화되며 이전까지의 한패는 만료**</span>됩니다. **절대로 예전 패치를 다시 적용하면 안됩니다.** 새로운 패치가 나올 때까지 기다려주세요.
 
 <br><br><br>
 
@@ -51,8 +49,6 @@ span.emphasis {
  1. 패치를 다운로드 받고 압축을 푼다.
  1. `modified` 폴더 내의 파일들을 그대로 복사해서 아레나 설치폴더 내의 `MTGA_Data`에 복사한다. (덮어쓸까요?라는 질문에 yes)
  1. 아레나를 실행한다.  
- ![옵션](/assets/images/arena/ko_option.png)
- 1. ~~`Option - Graphics - Locale`에서 `Korean` 선택~~
 
  * 설치폴더(기본): `C:\Program Files (x86)\Wizards of the Coast\MTGA\MTGA_Data`
 
