@@ -14,7 +14,7 @@ span.emphasis {
 </style>
 
 <div class="alert alert-info" role="alert">
-					2019-02-15부터 아레나에 한국어가 공식 지원됩니다! 더 이상 본 패치는 필요하지 않습니다.
+					<string>2019-02-15부터 아레나에 한국어가 공식 지원됩니다! 더 이상 본 패치는 필요하지 않습니다.</strong>
 </div>
 
 {% include toc.md %}
