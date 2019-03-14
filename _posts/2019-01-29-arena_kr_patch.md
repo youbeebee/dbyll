@@ -15,7 +15,7 @@ span.emphasis {
 
 <div class="alert alert-info" role="alert">
 					<strong>2019-02-15부터 아레나에 한국어가 공식 지원됩니다! 더 이상 본 패치는 필요하지 않습니다.</strong>
-          <br>혹시 <strong>[한글폰트 패치](/arena_font_patch)</strong>를 해보시는건 어때요?
+          <br>혹시 <strong><a href="http://youbeebee.net/arena_font_patch">[한글폰트 패치]</a></strong>를 해보시는건 어때요?
 </div>
 
 {% include toc.md %}
