@@ -53,6 +53,8 @@ description: 매직 더 개더링 아레나 - 한글폰트 변경패치
 
  * 설치폴더(기본): `C:\Program Files (x86)\Wizards of the Coast\MTGA\MTGA_Data`
 
+패치 중 오류가 발생하면 설치폴더의 `속성`에서 `읽기 전용`을 체크 해제해주세요.
+
 <br><br><br>
 
 ------------------------------------
