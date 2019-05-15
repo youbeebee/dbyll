@@ -1,0 +1,227 @@
+.block_ {
+    color: black;
+    display: block;
+    font-size: 1.125em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_1 {
+    color: black;
+    display: block;
+    font-family: serif;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_2 {
+    color: black;
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 12pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_3 {
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 12pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_4 {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1pt;
+    color: black;
+    display: block;
+    font-family: serif;
+    margin-bottom: 10pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 1pt;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_5 {
+    color: black;
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_6 {
+    color: black;
+    display: block;
+    margin-bottom: 14pt;
+    margin-left: 50.4pt;
+    margin-right: 187pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    page-break-inside: avoid
+    }
+.block_7 {
+    color: black;
+    display: list-item;
+    margin-bottom: 8pt;
+    margin-left: 36pt;
+    margin-top: 8pt;
+    padding-bottom: 0;
+    padding-top: 0
+    }
+.block_8 {
+    color: black;
+    display: list-item;
+    margin-bottom: 8pt;
+    margin-left: 36pt;
+    margin-top: 8pt;
+    padding-top: 0
+    }
+.block_9 {
+    color: black;
+    display: block;
+    margin-bottom: 14pt;
+    margin-left: 50.4pt;
+    margin-right: 176pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    page-break-inside: avoid
+    }
+.block_10 {
+    color: black;
+    display: block;
+    font-family: serif;
+    margin-bottom: 14pt;
+    margin-left: 50.4pt;
+    margin-right: 187pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    page-break-inside: avoid
+    }
+.block_11 {
+    color: black;
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 8pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre {
+    color: #F00;
+    display: block;
+    font-family: "맑은 고딕", monospace;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    font-weight: bold
+    }
+.calibre2 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre3 {
+    line-height: 1.2;
+    white-space: pre-wrap
+    }
+.calibre4 {
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    font-style: italic
+    }
+.calibre7 {
+    white-space: pre-wrap
+    }
+.list_ {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.text_ {
+    font-style: italic;
+    font-weight: bold
+    }
+.text_1 {
+    color: #00F;
+    font-weight: bold;
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.text_2 {
+    font-family: "맑은 고딕", monospace
+    }
+.text_3 {
+    font-family: "바탕", serif
+    }
+.text_4 {
+    font-family: "맑은 고딕", monospace;
+    font-style: italic
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
