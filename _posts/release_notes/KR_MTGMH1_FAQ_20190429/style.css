@@ -84,16 +84,12 @@
     }
 .block_6 {
     color: black;
-    display: block;
-    margin-bottom: 14pt;
-    margin-left: 50.4pt;
-    margin-right: 25%;
-    margin-top: 0;
+    display: list-item;
+    margin-bottom: 8pt;
+    margin-left: 36pt;
+    margin-top: 8pt;
     padding-bottom: 0;
-    padding-left: 0;
-    padding-right: 0;
-    padding-top: 0;
-    page-break-inside: avoid
+    padding-top: 0
     }
 .block_7 {
     color: black;
@@ -101,18 +97,9 @@
     margin-bottom: 8pt;
     margin-left: 36pt;
     margin-top: 8pt;
-    padding-bottom: 0;
     padding-top: 0
     }
 .block_8 {
-    color: black;
-    display: list-item;
-    margin-bottom: 8pt;
-    margin-left: 36pt;
-    margin-top: 8pt;
-    padding-top: 0
-    }
-.block_9 {
     color: black;
     display: block;
     margin-bottom: 14pt;
@@ -125,7 +112,7 @@
     padding-top: 0;
     page-break-inside: avoid
     }
-.block_10 {
+.block_9 {
     color: black;
     display: block;
     font-family: serif;
@@ -139,7 +126,7 @@
     padding-top: 0;
     page-break-inside: avoid
     }
-.block_11 {
+.block_10 {
     color: black;
     display: block;
     line-height: 1.2;
@@ -176,16 +163,12 @@
     white-space: pre-wrap
     }
 .calibre4 {
-    line-height: 1.2;
-    text-decoration: none
-    }
-.calibre5 {
     display: block
     }
-.calibre6 {
+.calibre5 {
     font-style: italic
     }
-.calibre7 {
+.calibre6 {
     white-space: pre-wrap
     }
 .list_ {
