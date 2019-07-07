@@ -8,7 +8,7 @@ permalink: /release/war
 description: MTG Spark of War release notes.
 ---
 
-<h3 markdown="1">원본은 [이곳](https://magic.wizards.com/en/articles/archive/feature/war-spark-release-notes-2019-04-19){:target="_blank"}에서 보실 수 있습니다.</h3>
+<h3 markdown="1">원본은 [이곳](https://magic.wizards.com/en/articles/archive/feature/war-spark-release-notes-2019-04-19)에서 보실 수 있습니다.</h3>
 
 --------
 <style>
