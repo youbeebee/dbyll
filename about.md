@@ -18,7 +18,7 @@ permalink: /about/
 
 <br>
 
-## 종합규칙서란?
+## 종합규칙서
 
 >The Comprehensive Rules are designed to be the end-all, be-all of the Magic rules.
 
@@ -33,10 +33,17 @@ permalink: /about/
 
 <br>
 
-## 위반처리지침이란?
+## 위반처리지침
 >**Magic™** 위반처리지침은 심판들이 경쟁적(Competitive) 또는 전문적(Professional) 규칙 적용 수준(Rules Enforcement Level, REL)으로 열리는 토너먼트에서 발생하는 규칙 위반을 다루기 위한 적절한 벌칙과 처리 절차, 그리고 이러한 행위에 대한 기반 철학을 제공합니다.
 
 ### [**IPG 목차 바로가기(클릭)**](/ipg)
+
+<br>
+
+## 정규 REL에서의 판정
+정규 REL에서의 판정은 비경쟁적인 토너먼트(정규 규칙 적용 수준)에서의 판정 가이드 문서입니다.
+
+### [**JAR 바로가기(클릭)**](/jar)
 
 <br>
 
