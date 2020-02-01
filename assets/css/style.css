@@ -7,7 +7,7 @@ body{
 .sidebar {
 	position: fixed;
 	top: 0px;
-	padding-top: 10%;
+	padding-top: 5%;
 	background-color: #2a2a2a;
 	color: #fff;
 }
