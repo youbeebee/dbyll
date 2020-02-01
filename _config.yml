@@ -13,9 +13,9 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Korean CR Project
+      title: Korean MTG Rules
 
-description: Korean CR Project Homepage by B.F.M.
+description: Korean MTG Rules Homepage by B.F.M.
 author:
   name: B.F.M.
   email: bfm@example.com
@@ -23,7 +23,7 @@ author:
   #twitter: asd123
   #pinterest: asd123
   #linkedin: asd123
-  bio: 'B.F.M. <br>DCI 공인 MTG Lv.1 Judge'
+  bio: 'B.F.M. <br>Judge Academy Lv.1 Judge'
 
 rss_path: feed.xml
 categories_path: categories.html
